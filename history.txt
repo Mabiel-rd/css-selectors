@@ -1,0 +1,140 @@
+    1  quit --version
+    2  git --version
+    3  git conflig --global user .name"Mabiel-rd"
+    4  git config --global user.name "Mabiel-rd" 
+    5  git --global user.email "mabielrosario12@gmail.com"
+    6  git config --global init.defaultBranch main
+    7  git config --global --list
+    8  git confing --global user.name "Mabiel-rd"
+    9  git config --global user.name "Mabiel-rd"
+   10  git config --global user.email "mabielrosario12@gmail.com"
+   11  git config --global --list
+   12  Practica # 1
+   13  pud
+   14  pud
+   15  clear
+   16  cd..
+   17  cd...
+   18  history
+   19  clear
+   20  history
+   21  history
+   22  pwd
+   23  is
+   24  ls
+   25  mkdir
+   26  mkdir
+   27  Mkdir
+   28  rmdir
+   29  rmdir
+   30  mkdir
+   31  rmdir
+   32  mkdir
+   33  lmdir
+   34  rmdir
+   35  clear
+   36  practica#1
+   37  pwd
+   38  clear
+   39  ls
+   40  cd
+   41  pwd
+   42  ls
+   43  cd
+   44  cd introbash
+   45  cd. introbash
+   46  ls
+   47  pwd
+   48  mkdir
+   49  ls
+   50  pwd
+   51  ls
+   52  pwd
+   53  ls
+   54  gh
+   55  gh
+   56  gh
+   57  gh auth login--web
+   58  gh
+   59  clear
+   60  gh
+   61  gh auth login --web
+   62  git branch -M main
+   63  git config --global init.defaulBranch main
+   64  clear
+   65  .gh-cli-test
+   66  clear
+   67  git init
+   68  tounch README.md
+   69  touch README.md
+   70  code .
+   71  pwd
+   72  clea
+   73  clear
+   74  git init
+   75  touche REAME.md
+   76  touch README.md
+   77  code .
+   78  touch REAME.md
+   79  code .
+   80  cod .
+   81  code .
+   82  git init
+   83  gh repo create
+   84  git init 
+   85  touch READEME.md
+   86  code .
+   87  gh repo create
+   88  git init 
+   89  pwd
+   90  git init 
+   91  gh repo create
+   92  PWD
+   93  git init
+   94  touch REAME.md 
+   95  gh repo create 
+   96  git init 
+   97  is
+   98  id
+   99  is
+  100  is 
+  101  git init
+  102  gi repo create
+  103  gh repo create
+  104  gh repo create
+  105  gh create repo
+  106  git init
+  107  gh create repo 
+  108  clear
+  109  gh
+  110  clear
+  111  git   init
+  112   gh create repo
+  113  gh repo create
+  114  touch README.md
+  115  code 
+  116  git init
+  117  gh repo create
+  118  code .
+  119  git branch mabiel_rama
+  120  git commit -m "ultimos cambios"
+  121  git branch testing
+  122  git checkout testing
+  123  git log
+  124  node .
+  125  node .
+  126  git commit
+  127  git commit mabiel_rama
+  128  git commit main
+  129  git psuh 
+  130  git push
+  131  git checkout testing
+  132  git log --oneline --decorate --graph --all
+  133  git chechout main
+  134  git chechout mabiel_rama
+  135  git chechout main
+  136  git checkout main
+  137  git merge testing
+  138  git merge testing main
+  139  history
+  140  history > history.txt
